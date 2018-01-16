@@ -1,2 +1,1 @@
-# hello-world
-First Try
+Hello, I am going to smoke.
